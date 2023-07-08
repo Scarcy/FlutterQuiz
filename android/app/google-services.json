@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "134823342166",
+    "project_id": "fireshipfluttercourse-aa990",
+    "storage_bucket": "fireshipfluttercourse-aa990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134823342166:android:825aee3de08567e3f4cbf7",
+        "android_client_info": {
+          "package_name": "io.ellefsendev.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134823342166-n1n19eqt1so56n4mrm91oge8mgr2heeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ellefsendev.myapp",
+            "certificate_hash": "a1f6f702fdd5747d1992e7288612a7f84d3d67eb"
+          }
+        },
+        {
+          "client_id": "134823342166-9qat462bilknhp2ldsq376j3fiqkt8ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPYpEsU0YKaZh5K-WABaFqeIIz5_iTaqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134823342166-9qat462bilknhp2ldsq376j3fiqkt8ob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134823342166-06afip81e3ut4014r4tgt2kim4pa7u5q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ellefsendev.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
